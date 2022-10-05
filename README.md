@@ -36,25 +36,25 @@ While this is a working solution, the application will require further extensive
 ## Demo
 
 <p align="center">
-<img src = "./other/1testImage.BMP" width="550" height="375">
+<img src = "./other/1testImage.bmp" width="550" height="375">
 </p>
 
 ---
 
 <p align="center">
-<img src = "./other/2SpareBinaryImage.BMP" width="550" height="375">
+<img src = "./other/2SpareBinaryImage.bmp" width="550" height="375">
 </p>
 
 ---
 
 <p align="center">
-<img src = "./other/3MajorityF.BMP" width="550" height="375">
+<img src = "./other/3MajorityF.bmp" width="550" height="375">
 </p>
 
 ---
 
 <p align="center">
-<img src = "./other/4SquareFour.BMP" width="550" height="375">
+<img src = "./other/4SquareFour.bmp" width="550" height="375">
 </p>
 
 ---
